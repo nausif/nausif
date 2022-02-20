@@ -8,13 +8,13 @@
 - 🔭 I’m currently working on **.Net Core, React & Azure**
 - 🌱 I’m currently learning: **Web 3.0 & Blockchain**
 - 💬 Ask me about: Whatever you want to know :wink:
+- 📫 Mailing Address: contact@nausif.com
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I love to watch and play **DOTA 2**
 
 ---
 
 ###  Connect with me:
-
 [<img align="left" alt="nausif | Facebook" width="35px" src="https://img.icons8.com/fluency/452/facebook-new.png" />][facebook]
 [<img align="left" alt="nausif | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="nausif | LinkedIn" width="35px" src="https://img.icons8.com/fluency/344/linkedin.png" />][linkedIn]
@@ -46,6 +46,7 @@
 **[Visit my website &rarr;](https://www.nausif.com/)**
 
 [myprofile]: https://github.com/nausif
+[email]: contact@nausif.com
 [facebook]: https://www.facebook.com/nausif.momin
 [linkedIn]: https://www.linkedin.com/in/nausif
 [stackoverflow]: https://stackoverflow.com/users/8643967/nausif-momin
