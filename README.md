@@ -5,8 +5,8 @@
 ## I'm a Full Stack Web & Mobile App Developer!
 
 
-- 🔭 I’m currently working on **.Net Core, React & Azure**
-- 🌱 I’m currently learning: **Web 3.0 & Blockchain**
+- 🔭 My core tech stack is **.Net Core, React & Azure**
+- 🌱 I’m currently working and learning: **GoLang, Python, Containerization, Kubernetes & Cloud Technologies**
 - 💬 Ask me about: Whatever you want to know :wink:
 - 📫 Mailing Address: contact@nausif.com
 - 😄 Pronouns: **he/him**
