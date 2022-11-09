@@ -2,11 +2,11 @@
 
 ## Hello, I'm Nausif Momin 🤵
 
-## I'm a Full Stack Web & Mobile App Developer!
+## I'm a Full Stack Developer!
 
 
-- 🔭 My core tech stack is **.Net Core, React & Azure**
-- 🌱 I’m currently working and learning: **GoLang, Python, Containerization, Kubernetes & Cloud Technologies**
+- 🔭 My core tech stack is **C# .Net Core, React JS & Azure**
+- 🌱 I’m currently working and learning: **GoLang, Python, Containerization, Kubernetes & Multi Cloud**
 - 💬 Ask me about: Whatever you want to know :wink:
 - 📫 Mailing Address: contact@nausif.com
 - 😄 Pronouns: **he/him**
