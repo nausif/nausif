@@ -4,16 +4,6 @@
 
 ## I'm a Full Stack Developer!
 
-
-- 🔭 My core tech stack is **C# .Net Core, React JS & Azure**
-- 🌱 I’m currently working and learning: **GoLang, Python, Containerization, Kubernetes & Multi Cloud**
-- 💬 Ask me about: Whatever you want to know :wink:
-- 📫 Mailing Address: contact@nausif.com
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I love to watch and play **DOTA 2**
-
----
-
 ###  Connect with me:
 [<img align="left" alt="nausif | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="nausif | LinkedIn" width="35px" src="https://img.icons8.com/fluency/344/linkedin.png" />][linkedIn]
