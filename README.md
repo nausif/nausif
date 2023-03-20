@@ -16,11 +16,12 @@
 
 ### ⚙ Languages and Tools I use :
 
-<img align="left" alt="C Sharp" width="32px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://img.icons8.com/color/452/javascript--v1.png" />
 <img align="left" alt="TypeScript" width="35px" src="https://img.icons8.com/color/452/typescript.png" />
-<img align="left" alt=".NET" width="35px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png" />
 <img align="left" alt="React" width="32px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" />
+<img align="left" alt="React" width="32px" src="https://img.icons8.com/fluency/512/node-js.png" />
+<img align="left" alt="C Sharp" width="32px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" />
+<img align="left" alt=".NET" width="35px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-shadow-tal-revivo.png" />
 <img align="left" alt="Azure" width="35px" src="https://img.icons8.com/fluency/344/azure-1.png" />
 <img align="left" alt="HTML5" width="35px" src="https://img.icons8.com/color/344/html-5--v1.png" />
 <img align="left" alt="CSS3" width="35px" src="https://img.icons8.com/color/452/css3.png" />
